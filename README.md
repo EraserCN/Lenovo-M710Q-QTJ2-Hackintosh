@@ -39,7 +39,7 @@ Save your changes and reboot to apply these settings.
 # [Watch How it Happened](https://youtu.be/CKHQxTijZmY)
 If, after booting into macOS, the display output suddenly changes to a solid color (e.g., green, blue, or another uniform hue) within a few minutes, and the system logs do not report any errors, this issue is likely caused by a specific batch defect in the QTJ2 CPU. 
 
-### Resolution
+### Solution
 
 - **Temporary Workarounds:** None.
 - **Permanent Solution:** Replace the QTJ2 CPU with a compatible and unaffected model.
